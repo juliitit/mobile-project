@@ -1,0 +1,14 @@
+h1{
+    color: rgb(83, 165, 42);
+}
+main{
+    width: 60%;
+    margin: auto;
+}
+p{
+    font-size: 18px;
+    text-align: justify;
+}
+header img {
+width: 100%;
+}
